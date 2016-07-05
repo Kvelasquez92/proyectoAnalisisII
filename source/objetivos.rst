@@ -39,31 +39,24 @@ logística y gestión de todas las condiciones necesarias para llevar a cabo un 
 Misión del proyecto
 -------------------
 
-
+Proporcionar una plataforma de fácil acceso al público y artistas con el fin de
+fortalecer la cultura de Quetzaltenango, administrando de forma eficiente y segura
+la información, que al mismo tiempo será relevante y confiable.
 
 
 Objetivos del proyecto
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
+  - En cuanto a la cantidad de eventos de cultura en la cabecera municipal,
+    incrementarla en un 15% anual, por los proximos 3 años.
 
-* Specific
+  - En cuanto al numero de artistas asociados con la casa de la cultura,
+    incrementarlos en un 20% anual, por los proximos 4 años.
 
-  * Específicos
+  - En cuanto a la cantidad de usuarios particulares, alcanzar al menos
+    1500 por cada año.
 
-* Measurable
+  - En cuanto al tiempo de registro de un artista o de un usuario particular,
+    que sea menor o igual a un minuto.
 
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+  - En cuanto al tiempo de gestión de un evento, que no exceda de 2 días.
