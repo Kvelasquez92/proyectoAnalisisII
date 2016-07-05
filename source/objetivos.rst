@@ -1,36 +1,45 @@
-"Nombre del proyecto"
-====================
-
-Sustituya con el nombre del proyecto.
+Aplicación Web "Solo Cultura y Arte"
+====================================
 
 
 Breve historia del proyecto
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
+El idea de la implementación este sistema nace a partir del interés de <<La Casa
+la Cultura>> por favorecer la cultura en Quetzaltenando, facilitando el acceso a
+eventos y artistas de distintos tipos (música, pintura, fotografía, literatura,
+etc) al público en general. Por lo que el encargado de gestión de proyectos de
+dicha institución llamado Ernesto Pacheco se abocó a los participantes del curso
+de Análisis y Diseño II de la Universidad Rafael Landívar y formar un acuerdo para
+la realización del mismo.
 
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
+La principal intención de implementar este proyecto es brindar un fácil acceso
+a los artistas y personas en general para que puedan contactar a los artistas
+por medio de la aplicación y organizar más facilmente eventos culturales.
+En concreto se pretende llevar un óptimo control en el registro de artistas y en
+la coordinación de eventos, hacer reservaciones de los espacios municipales dispo-
+nibles para eventos, entre otros.
 
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
+La ventaja de tener un sistema como este será reflejada en una mayor cantidad de
+eventos de cultura en Quetzaltenando y la región al tener una forma fácil y muy
+accesible para todo público de contactar a los artistas y a la misma casa de la
+cultura para coordinar un evento, dicho de otra forma, incrementará la cultura en
+Quetzaltenango.
 
 
-Empresa a la que se dirige el sistema
--------------------------------------
+Casa de la cultura Quetzaltenango
+---------------------------------
 
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
-
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
-
+La casa de la cultura es una institución municipal de Quetzaltenango la cual se
+encarga de la coordinación de los eventos culturales del lugar. Su función es
+meramente administrativa ya que lleva el control de las instalaciones municipales
+disponibles para eventos culturales, tambien se encarga en algunos casos de la
+logística y gestión de todas las condiciones necesarias para llevar a cabo un evento.
 
 Misión del proyecto
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
+
 
 
 Objetivos del proyecto
